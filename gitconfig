@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = marshallekm@gmail.com
+	name = Erika Kawashima
